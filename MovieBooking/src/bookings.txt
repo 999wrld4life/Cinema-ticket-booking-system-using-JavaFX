@@ -1,0 +1,37 @@
+
+username: natmad191 Movie: - Title: Spartacus - Rating: 7.9- Showtimes: 2 am selected seat: 45
+username: nataba507 Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 selected seat: 45
+username: natabq443 Movie: - Title: Spartacus - Rating: 8.6- Showtimes: 3 am selected seat: 34
+username: natabt928 Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action selected seat: 67
+username: torfjf771|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 34
+username: nataby432|  Movie: - Title: Spartacus - Rating: 8.6- Showtimes: 3 am- Genre: adventure|  selected seat: 90
+username: natabu659|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 34
+username: natabi473|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 33
+username: natabi473|  Movie: - Title: Spartacus - Rating: 8.6- Showtimes: 3 am- Genre: adventure|  selected seat: 89
+username: natmav808|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 49
+username: natmao384|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 49
+username: natmam904|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 48
+username: natmae628|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 13
+username: natmaz346|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 7
+username: natmaq455|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 14
+username: natmas159|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 10
+username: natmat700|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 15
+username: natmar705|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 10
+username: natabg531|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 10
+username: natabn600|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 10
+username: natmab504|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 14
+username: natmae698|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 1
+username: natmai978|  Movie: - Title: Spartacus - Rating: 8.6- Showtimes: 3 am- Genre: adventure|  selected seat: 15
+username: natmam720|  Movie: - Title: The Other Zoey - Rating: 5.6- Showtimes: 4 am- Genre: comedy|  selected seat: 14
+username: natmaj595|  Movie: - Title: Spartacus - Rating: 8.6- Showtimes: 3 am- Genre: adventure|  selected seat: 10
+username: natmax968|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 10
+username: nahmab585|  Movie: - Title: The Other Zoey - Rating: 5.6- Showtimes: 4 am- Genre: comedy|  selected seat: 7
+username: natmao146|  Movie: - Title: The Other Zoey - Rating: 5.6- Showtimes: 4 am- Genre: comedy|  selected seat: 10
+username: natmae350|  Movie: - Title: The Other Zoey - Rating: 5.6- Showtimes: 4 am- Genre: comedy|  selected seat: 1
+username: natmat198|  Movie: - Title: The Other Zoey - Rating: 5.6- Showtimes: 4 am- Genre: comedy|  selected seat: 15
+username: natmaw824|  Movie: - Title: The Other Zoey - Rating: 5.6- Showtimes: 4 am- Genre: comedy|  selected seat: 14
+username: natmad486|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 3
+username: natmae415|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 3
+username: natmae415|  Movie: - Title: The Flash - Rating: 9.4- Showtimes: 6 am- Genre: action|  selected seat: 15
+username: natmas211|  Movie: - Title: Foe - Rating: 5.4- Showtimes: 6 am- Genre: sci-fi- Synopsis: Hen and Junior's quiet life is thrown into turmoil when an uninvited stranger shows up at their door with a startling proposal.|  selected seat: 10
+username: natmas211|  Movie: - Title: Foe - Rating: 5.4- Showtimes: 6 am- Genre: sci-fi- Synopsis: Hen and Junior's quiet life is thrown into turmoil when an uninvited stranger shows up at their door with a startling proposal.|  selected seat: 12

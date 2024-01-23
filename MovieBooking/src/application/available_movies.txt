@@ -1,0 +1,32 @@
+Title: 21 Bridges
+Rating: 6.6
+Start Time: 4 PM
+Genre: Action/Crime
+Description: Andre, an aggressive police officer with a controversial reputation, decides to put an end to two war veterans after they shoot down a few police officers during a heist.
+Image: bridges.jpg
+End Time: 6 PM
+Release Date: 2023-12-10
+Room: Room One
+Ticket Price: $15
+
+Title: Saltburn
+Rating: 7.6
+Start Time: 2 PM
+Genre: Thriller
+Description: Distraught by his classmate Oliver's unfortunate living situation, Felix, a rich student, invites him over to his estate. Soon, a series of horrifying events engulf Felix's family.
+Image: saltburn.jpg
+End Time: 4 PM
+Release Date: 2023-12-19
+Room: Room Two
+Ticket Price: $12
+
+Title: Foe
+Rating: 5.4
+Start Time: 12 PM
+Genre: Sci-Fi
+Description: Hen and Junior's quiet life is thrown into turmoil when an uninvited stranger shows up at their door with a startling proposal.
+Image: foe.jpg
+End Time: 2 PM
+Release Date: 2023-12-27
+Room: Room Three
+Ticket Price: $10
