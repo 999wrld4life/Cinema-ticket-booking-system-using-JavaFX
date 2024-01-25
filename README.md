@@ -25,9 +25,9 @@ Java Collections: Used to manage movie data, user profiles, and booking informat
 
 
 
-Setup and Installation
+SETUP AND INSTALLATION
 
-To run the Cinema Booking System locally, follow these steps:
+To run this Cinema Ticket Booking System locally, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java development environment (such as IntelliJ IDEA or Eclipse).
