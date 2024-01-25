@@ -11,6 +11,8 @@ Admin Panel: Administrative access to manage movies, showtimes, and bookings.
 Responsive Design: Built using JavaFX for a modern and responsive graphical interface.
 
 
+
+
 TECHNOLOGIES USED
 
 Java and JavaFX: Core programming language and GUI toolkit for building the application.
