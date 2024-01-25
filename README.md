@@ -35,3 +35,7 @@ To run this Cinema Ticket Booking System locally, follow these steps:
 4. Modify sections of the code to refer to the images locally on your machine (i.e. image path names).
 5. Compile and run the application.
 6. Explore the different functionalities of the system, both from a customer and an administrator perspective.
+
+
+![image](https://github.com/999wrld4life/Cinema-ticket-booking-system-using-JavaFX/assets/122879317/e9d9da99-0018-46f9-9da6-19d9218802e7)
+
